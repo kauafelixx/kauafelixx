@@ -1,7 +1,7 @@
 ## Hello! I'm Kauã Felix 👋
 
 - 💼 I’m currently working on front-end
-- 📖 I’m currently learning Java
+- 📖 I am currently advancing my knowledge of Java script
 - 📞 My contact: +55 88 981180318
 - ☁️ I intend to become a fullstack developer
 - 🧑🏻‍🦽‍➡️ Programming on wheels
