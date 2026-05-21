@@ -1,17 +1,56 @@
-## Hello! I'm Kauã Felix 👋
+# Hello, I'm Kauã Felix 👋
 
-- 💼 I’m currently working on front-end
-- 📖 I am currently advancing my knowledge of Java script
-- 📞 My contact: +55 88 981180318
-- ☁️ I intend to become a fullstack developer
-- 🧑🏻‍🦽‍➡️ Programming on wheels
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kaua-Js" height="40" width="40" src="https://github.com/user-attachments/assets/9ea99028-2fa8-4f88-b33b-f398bc837892">
-  <img align="center" alt="Kaua-HTML" height="40" width="40" src="https://github.com/user-attachments/assets/9acdf3fc-2c9e-4609-820c-378a9fd3ec1f">
-  <img align="center" alt="Kaua-CSS" height="40" width="40" src="https://github.com/user-attachments/assets/125b3102-6c2e-4cfc-84bc-86c347ddee13">
+I'm a Full Stack Web Developer with 4 years of programming studies and professional freelance experience building modern, responsive, and scalable web applications.
 
-</div>
+I have experience developing real-world projects for clients, including digital solutions for law firms and local businesses, focusing on performance, responsiveness, usability, UI Design, UX Design, and professional digital presence.
 
-##
-  <a href="https://www.instagram.com/kauafelixxz/?__pwa=1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+---
+
+# 🚀 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma ORM" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+</p>
+
+---
+
+# 💻 About My Work
+
+I build component-based, responsive, and well-structured interfaces, combining clean code, professional design, and a strong user experience.
+
+I also use Artificial Intelligence as a productivity and development tool for automation, idea generation, workflow optimization, and digital solution improvement.
+
+---
+
+# 📌 Areas of Expertise
+
+- Front-end Development
+- Full Stack Development
+- Landing Pages
+- Responsive Interfaces
+- UI Design
+- UX Design
+- API Integration
+- Google OAuth Authentication
+- Database Integration
+- Artificial Intelligence applied to web development
+
+---
+
+# 📫 Contact
+
+- 🌐 Portfolio: https://www.kauafelixdev.com.br/portfolio
+- 💼 LinkedIn: www.linkedin.com/in/kauafelix
