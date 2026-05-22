@@ -54,3 +54,4 @@ I also use Artificial Intelligence as a productivity and development tool for au
 
 - 🌐 Portfolio: https://www.kauafelixdev.com.br/portfolio
 - 💼 LinkedIn: www.linkedin.com/in/kauafelix
+- Pessoa com deficiência (PCD) — AME Tipo 3.
