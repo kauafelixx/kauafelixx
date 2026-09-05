@@ -56,7 +56,7 @@ Meu trabalho combina **desenvolvimento, UI/UX Design, desempenho, acessibilidade
 
 ---
 
-# <img src="https://cdn.simpleicons.org/openai/10A37F" width="28" align="center" /> Inteligência Artificial & Integrações
+# <img src="https://cdn.simpleicons.org/openai/10A37F" width="28" align="center" />  Inteligência Artificial & Integrações
 
 Integro serviços externos e Inteligência Artificial em aplicações web para criar produtos mais completos, automatizados e inteligentes.
 
