@@ -1,4 +1,4 @@
-# Olá, eu sou Kauã Felix
+# Olá, eu sou Kauã Felix 👋
 
 Sou **Desenvolvedor Full Stack** focado na criação de produtos digitais completos — da interface e experiência do usuário à lógica de negócio, banco de dados, integrações, deploy e infraestrutura de produção.
 
@@ -8,7 +8,7 @@ Meu trabalho combina **desenvolvimento, UI/UX Design, desempenho, acessibilidade
 
 ---
 
-# <img src="https://skillicons.dev/icons?i=vscode" width="28" align="center" /> Tecnologias & Ferramentas
+# 🚀 Tecnologias & Ferramentas
 
 ### Front-end
 
@@ -56,7 +56,7 @@ Meu trabalho combina **desenvolvimento, UI/UX Design, desempenho, acessibilidade
 
 ---
 
-# <img src="https://cdn.simpleicons.org/openai/10A37F" width="28" align="center" />  Inteligência Artificial & Integrações
+# 🤖 Inteligência Artificial & Integrações
 
 Integro serviços externos e Inteligência Artificial em aplicações web para criar produtos mais completos, automatizados e inteligentes.
 
@@ -77,7 +77,7 @@ Também utilizo IA no meu fluxo de desenvolvimento para pesquisa, arquitetura, a
 
 ---
 
-# <img src="https://skillicons.dev/icons?i=react" width="28" align="center" /> O que eu desenvolvo
+# 💻 O que eu desenvolvo
 
 Desenvolvo produtos digitais completos, como:
 
@@ -98,7 +98,7 @@ Meus projetos são desenvolvidos com atenção tanto à **qualidade técnica qua
 
 ---
 
-# <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="28" align="center" /> SEO, Performance & Qualidade
+# 🔎 SEO, Performance & Qualidade
 
 Além do desenvolvimento, trabalho com os aspectos técnicos necessários para deixar aplicações preparadas para produção:
 
@@ -118,7 +118,7 @@ Além do desenvolvimento, trabalho com os aspectos técnicos necessários para d
 
 ---
 
-# <img src="https://skillicons.dev/icons?i=ts" width="28" align="center" /> Áreas de Atuação
+# 🧠 Áreas de Atuação
 
 * Desenvolvimento Full Stack
 * Desenvolvimento Front-end
@@ -137,7 +137,7 @@ Além do desenvolvimento, trabalho com os aspectos técnicos necessários para d
 
 ---
 
-# <img src="https://cdn.simpleicons.org/linktree/43E55E" width="28" align="center" /> Contato
+# 📫 Contato
 
 🌐 **Portfólio:** https://www.kauafelixdev.com.br/
 💼 **LinkedIn:** https://www.linkedin.com/in/kauafelix
